@@ -2,10 +2,9 @@
 var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
-  { text: "Te encontré de madrugada", time: 29 },
-  { text: "Cuando menos lo esperaba", time: 18 },
-  { text: "Cuando no buscaba nada", time: 27 },
-  { text: "Te encontré", time: 32 },
+  { text: "Cada Momento Contigo Es Un Regalo ", time: 15 },
+  { text: "y Cada Beso Un Tesoro", time: 18 },
+
  
 ];
 
