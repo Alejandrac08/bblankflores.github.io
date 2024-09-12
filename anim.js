@@ -2,7 +2,7 @@
 var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 var lyricsData = [
-  { text: "Te encontré de madrugada", time: 15 },
+  { text: "Te encontré de madrugada", time: 29 },
   { text: "Cuando menos lo esperaba", time: 18 },
   { text: "Cuando no buscaba nada", time: 27 },
   { text: "Te encontré", time: 32 },
